@@ -1,6 +1,8 @@
 # Hyperwood Bench
 Our simplistic yet elegant bench is the first-ever Hyperwood design, embodying the project's essence of simplicity, functionality, and aesthetic clarity.
 
+![A photo showing this bench, which is getting a little old and gray.](bench.jpg)
+
 ## Usage
 ```
 Usage: hyperwood-bench --width <WIDTH> --depth <DEPTH> --height <HEIGHT> --variant <VARIANT>
@@ -47,3 +49,5 @@ Leg
 3 7 0 0 0 6 7 3
 14 7 0 0 0 6 7 3
 ```
+
+© 2025 Johannes J. Schmidt
