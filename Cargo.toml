@@ -1,6 +1,6 @@
 [package]
 name = "hyperwood-bench"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2024"
 license = "Apache-2.0"
 description = "Our simplistic yet elegant bench is the first-ever Hyperwood design, embodying the project's essence of simplicity, functionality, and aesthetic clarity."
@@ -8,7 +8,7 @@ documentation = "https://docs.rs/hyperwood-bench/latest/hyperwood-bench/"
 homepage = "https://github.com/jo/hyperwood-bench"
 repository = "https://github.com/jo/hyperwood-bench"
 authors = ["Johannes J. Schmidt <schmidt@tf-fabrik.de>"]
-keywords = ["hyperwood-model"]
+keywords = ["hyperwood-design"]
 
 [dependencies]
 clap = { version = "4.5.36", features = ["derive"] }
